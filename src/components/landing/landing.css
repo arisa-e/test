@@ -1,0 +1,6 @@
+.landing-page {
+    background-color: #f8f9fb;
+    display: flex;
+    max-height: 100vh;
+    overflow-y: hidden;
+}
